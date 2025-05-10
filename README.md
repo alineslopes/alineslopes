@@ -1,15 +1,22 @@
-# Olá! Hi! 👋
+# 👋 Olá! Hi there!
 
-<p align="left"> 
-  I'm Aline, brazilian computer scientist and QA Automation Engineer. Here you can find the codes about what I've been studing and learning.
-</p>
+I'm **Aline**, a Brazilian Computer Scientist and QA Automation Engineer.  
+Welcome to my GitHub! Here, you'll find code snippets, projects, and examples from my ongoing learning and studies in software testing, automation, and development.
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineslopes&theme=dracula&hide_langs_below=1" />
+---
+
+## 📊 Most Used Languages
+
+<a href="https://github.com/alinelopess">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinelopess&theme=dracula&layout=compact&langs_count=8" />
 </a>
 
+---
 
- <div>
-  <a href="https://github.com/alinelopess">
-  
-</div>
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
+
+---
+
+> ✨ “Always learning, always growing.”  
