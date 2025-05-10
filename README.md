@@ -8,7 +8,7 @@ Welcome to my GitHub! Here, you'll find code snippets, projects, and examples fr
 ## 📊 Most Used Languages
 
 <a href="https://github.com/alinelopess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinelopess&theme=dracula&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alinelopess&theme=dracula&layout=compact&langs_count=8" />
 </a>
 
 ---
